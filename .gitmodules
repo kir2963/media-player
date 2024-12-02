@@ -1,0 +1,3 @@
+[submodule "kir-utility"]
+	path = kir-utility
+	url = https://github.com/kir2963/kir-utility
